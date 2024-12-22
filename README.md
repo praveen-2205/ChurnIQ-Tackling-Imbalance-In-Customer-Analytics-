@@ -73,3 +73,8 @@ Customer churn refers to the phenomenon where customers stop doing business with
 
 ## 🎯 Conclusion
 This project serves as a comprehensive guide to tackling customer churn prediction with a special emphasis on handling imbalanced datasets. The techniques and models showcased can be adapted to similar classification problems in different domains.
+
+## 👋 Reach Out
+If any doubt or clarification reach me through
+- [LinkedIn](www.linkedin.com/in/spraveenkumar2205)
+- [E-mail](spraveenkumar2205@gmail.com)
